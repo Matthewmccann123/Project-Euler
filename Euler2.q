@@ -1,0 +1,1 @@
+sum c[where 0=(c:-1_{x,sum -2#x}/[{4000000>last x};1 2])mod\:2]

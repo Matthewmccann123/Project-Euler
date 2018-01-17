@@ -1,0 +1,1 @@
+sum t[where{0=((mod[x]3)&(mod[x]5)) }'[t:til 1000]]

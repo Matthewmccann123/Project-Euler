@@ -1,0 +1,1 @@
+{g[last where{1=sum 0=mod[x]1+til floor sqrt[x]}'[g:t[where 0=x mod/:t:1+til floor sqrt[x]]]]} 600851475143

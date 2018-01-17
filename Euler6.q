@@ -1,0 +1,1 @@
+{(xexp[sum g]2)-sum(g:1+til x)xexp\:2}100

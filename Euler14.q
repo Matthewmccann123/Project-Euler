@@ -1,0 +1,1 @@
+c[max {count {$[0=mod[x]2;x div 2;1+3*x]}\[1<>;x]} each c:1 + til 999999]
